@@ -1,5 +1,28 @@
 ---
-title: "Welcome to my blog"
+title: "my portfolio"
 ---
 
-I'm glad you are here. I plan to talk about ...
+---
+name and picture:
+---
+
+---
+digital presence:
+---
+ 
+---
+About me:
+---
+
+---
+Experience:
+---
+
+---
+skills:
+---
+
+---
+project and project pages:
+---
+
